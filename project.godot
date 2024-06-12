@@ -14,14 +14,8 @@ config/name="Pixel Adventure Tutorial"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
+"<<<<<<<HEAD[dotnet]project/assembly_name"="Pixel Adventure Tutorial"
 
-<<<<<<< HEAD
-[dotnet]
-
-project/assembly_name="Pixel Adventure Tutorial"
-
-=======
->>>>>>> 74cdbcaf89e7206170fc1fef4a7ad3b469fbad03
 [input]
 
 left={
