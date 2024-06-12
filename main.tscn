@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://bgmlpco46rsps"]
 
-[ext_resource type="Texture2D" uid="uid://cfx1am8rn325p" path="res://Green.png" id="1_mnnqw"]
-[ext_resource type="Texture2D" uid="uid://dk5ctp7g0c4ox" path="res://Terrain (16x16).png" id="2_1u2cf"]
+[ext_resource type="Texture2D" uid="uid://cfx1am8rn325p" path="res://asset/Green.png" id="1_mnnqw"]
+[ext_resource type="Texture2D" uid="uid://dk5ctp7g0c4ox" path="res://asset/Terrain (16x16).png" id="2_1u2cf"]
 [ext_resource type="PackedScene" uid="uid://dcmlr5gvpuhmw" path="res://scenes/main_Character.tscn" id="3_rravv"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rpegc"]
