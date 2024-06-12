@@ -37,3 +37,7 @@ func _physics_process(delta):
 
 	var isLeft = velocity.x < 0
 	sprite_2d.flip_h = isLeft
+<<<<<<< HEAD
+# CHECK APAKAH BISA
+=======
+>>>>>>> 74cdbcaf89e7206170fc1fef4a7ad3b469fbad03
